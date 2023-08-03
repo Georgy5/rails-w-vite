@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "vite": "^4.3.0",
+    "vite-plugin-ruby": "^3.2.0"
+  },
+  "name": "app",
+  "private": "true",
+  "description": "Ruby on Rails 7 and Vite",
+  "main": "index.js",
+  "author": "Karl Keller <kgk86@hotmail.com>"
+}
