@@ -1,7 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Setup up Rails application with Sass, Stimulus and Vite.
+following this Tutorial:
+https://louisramos.dev/blogs/ruby-on-rails-7-and-vite#wrapping-up
+
+
+## Note:
+
+As with any third party library there's always the possibility of having some issues.
+
+You won't be able to use the Stimulus generator command bin/rails generate stimulus CONTROLLER_NAME in your terminal because stimulus is hardcoded to look for a app/javascript/controllers directory.
 
 Things you may want to cover:
 
